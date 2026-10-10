@@ -30,7 +30,7 @@ The tuned XGBoost (700 trees, depth 8, learning rate 0.1) scored on the untouche
 ## Exploration highlights
 Median price is £14,470 (mean £16,425). Price correlates most with engine size (0.61) and year (0.52), and negatively with mileage (-0.42).
 
-![Price distribution](images/price_distribution.png)
+![Price distribution](car-price-predictor/images/price_distribution.png)
 ![Price vs mileage](images/price_vs_mileage.png)
 ![Price by brand](images/price_by_brand.png)
 ![Correlation](images/correlation.png)
