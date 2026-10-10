@@ -1,0 +1,5 @@
+# extra packages for the notebook and EDA charts
+-r requirements.txt
+matplotlib
+seaborn
+jupyter
